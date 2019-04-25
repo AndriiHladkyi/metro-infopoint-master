@@ -193,6 +193,3 @@ Please send us your code even if you haven't fully implemented all the requireme
 When making decisions about your code, keep in mind that the metropolitan may request certain changes in functionality in the future. Can your code design allow such changes easily?
 
 What possible security issues do you see in the current app design?
-# metro-infopoint
-# metro-test
-# metro-infopoint-master
